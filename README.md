@@ -29,4 +29,12 @@
 #### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Exploring the new MobX API](https://dev.to/ryands17/exploring-the-new-mobx-api-34jp)
+- [Deploying a Node app to Beanstalk using aws-cdk (TypeScript)](https://dev.to/ryands17/deploying-a-node-app-to-beanstalk-using-aws-cdk-typescript-3b8d)
+- [Deploying a SPA using aws-cdk (TypeScript)](https://dev.to/ryands17/deploying-a-spa-using-aws-cdk-typescript-4ibf)
+- [Deploy a Node app to AWS ECS with Dynamic Port mapping](https://dev.to/ryands17/deploy-a-node-app-to-aws-ecs-with-dynamic-port-mapping-38gd)
+- [Testing API calls](https://dev.to/ryands17/testing-api-calls-88i)
+- [Testing a simple React component](https://dev.to/ryands17/testing-a-simple-react-component-1d14)
+- [Using MobX with React Hooks](https://dev.to/ryands17/using-mobx-with-react-hooks-part---2-8ac)
+- [Using MobX with React Hooks](https://dev.to/ryands17/using-mobx-with-react-hooks-52h5)
 <!-- BLOG-POST-LIST:END -->
