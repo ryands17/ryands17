@@ -24,7 +24,6 @@
 - [LinkedIn](https://www.linkedin.com/in/ryan-dsouza-880522125/)
 - [DEV](https://dev.to/ryands17)
 
-<br/>
 
 #### 📕 Latest Blog Posts
 
