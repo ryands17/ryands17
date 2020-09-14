@@ -21,5 +21,12 @@
 #### Reach me @
 
 - [Twitter](https://twitter.com/ryands1701)
-- [DEV](https://dev.to/ryands17)
 - [LinkedIn](https://www.linkedin.com/in/ryan-dsouza-880522125/)
+- [DEV](https://dev.to/ryands17)
+
+<br/>
+
+#### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
