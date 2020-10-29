@@ -1,0 +1,8 @@
+{
+  "extends": [
+    "config:base"
+  ],
+  "masterIssue": true,
+  "automerge": true,
+  "schedule": ["every tuesday"]
+}
