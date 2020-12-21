@@ -28,6 +28,7 @@
 #### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Caching SSM Parameter Store values in Lambda](https://dev.to/ryands17/caching-ssm-parameter-store-values-in-lambda-5eac)
 - [Generating thumbnails via S3 events using aws-cdk (TypeScript)](https://dev.to/ryands17/generating-thumbnails-via-s3-events-using-aws-cdk-typescript-l1i)
 - [Exploring the new MobX API](https://dev.to/ryands17/exploring-the-new-mobx-api-34jp)
 - [Deploying a Node app to Beanstalk using aws-cdk (TypeScript)](https://dev.to/ryands17/deploying-a-node-app-to-beanstalk-using-aws-cdk-typescript-3b8d)
