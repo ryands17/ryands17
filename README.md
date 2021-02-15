@@ -28,6 +28,7 @@
 #### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Prisma Migrate with AWS Aurora Serverless](https://dev.to/prisma/prisma-migrate-with-aws-aurora-serverless-53g7)
 - [Deploy a GraphQL API with Prisma, AWS AppSync, Aurora Serverless & CDK](https://dev.to/prisma/deploy-a-graphql-api-with-prisma-aws-appsync-aurora-serverless-cdk-ln4)
 - [Caching SSM Parameter Store values in Lambda](https://dev.to/ryands17/caching-ssm-parameter-store-values-in-lambda-5eac)
 - [Generating thumbnails via S3 events using aws-cdk (TypeScript)](https://dev.to/ryands17/generating-thumbnails-via-s3-events-using-aws-cdk-typescript-l1i)
@@ -37,5 +38,4 @@
 - [Deploy a Node app to AWS ECS with Dynamic Port mapping](https://dev.to/ryands17/deploy-a-node-app-to-aws-ecs-with-dynamic-port-mapping-38gd)
 - [Testing API calls](https://dev.to/ryands17/testing-api-calls-88i)
 - [Testing a simple React component](https://dev.to/ryands17/testing-a-simple-react-component-1d14)
-- [Using MobX with React Hooks](https://dev.to/ryands17/using-mobx-with-react-hooks-part---2-8ac)
 <!-- BLOG-POST-LIST:END -->
