@@ -28,6 +28,7 @@
 #### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bundling Prisma with the CDK using aws-lambda-nodejs](https://dev.to/prisma/bundling-prisma-with-the-cdk-using-aws-lambda-nodejs-2lkd)
 - [Generating video thumbnails with S3 and Fargate using the CDK](https://dev.to/ryands17/generating-video-thumbnails-with-s3-and-fargate-using-the-cdk-35il)
 - [Prisma Migrate with AWS Aurora Serverless](https://dev.to/prisma/prisma-migrate-with-aws-aurora-serverless-53g7)
 - [Deploy a GraphQL API with Prisma, AWS AppSync, Aurora Serverless & CDK](https://dev.to/prisma/deploy-a-graphql-api-with-prisma-aws-appsync-aurora-serverless-cdk-ln4)
@@ -37,5 +38,4 @@
 - [Deploying a Node app to Beanstalk using aws-cdk (TypeScript)](https://dev.to/ryands17/deploying-a-node-app-to-beanstalk-using-aws-cdk-typescript-3b8d)
 - [Deploying a SPA using aws-cdk (TypeScript)](https://dev.to/ryands17/deploying-a-spa-using-aws-cdk-typescript-4ibf)
 - [Deploy a Node app to AWS ECS with Dynamic Port mapping](https://dev.to/ryands17/deploy-a-node-app-to-aws-ecs-with-dynamic-port-mapping-38gd)
-- [Testing API calls](https://dev.to/ryands17/testing-api-calls-88i)
 <!-- BLOG-POST-LIST:END -->
