@@ -28,6 +28,7 @@
 #### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rust on Lambda using the CDK](https://dev.to/ryands17/rust-on-lambda-using-the-cdk-3ccm)
 - [Using Nested Stacks with AWS CDK](https://dev.to/ryands17/using-nested-stacks-with-aws-cdk-4akc)
 - [Bundling Prisma with the CDK using aws-lambda-nodejs](https://dev.to/prisma/bundling-prisma-with-the-cdk-using-aws-lambda-nodejs-2lkd)
 - [Generating video thumbnails with S3 and Fargate using the CDK](https://dev.to/ryands17/generating-video-thumbnails-with-s3-and-fargate-using-the-cdk-35il)
@@ -37,5 +38,4 @@
 - [Generating thumbnails via S3 events using aws-cdk (TypeScript)](https://dev.to/ryands17/generating-thumbnails-via-s3-events-using-aws-cdk-typescript-l1i)
 - [Exploring the new MobX API](https://dev.to/ryands17/exploring-the-new-mobx-api-34jp)
 - [Deploying a Node app to Beanstalk using aws-cdk (TypeScript)](https://dev.to/ryands17/deploying-a-node-app-to-beanstalk-using-aws-cdk-typescript-3b8d)
-- [Deploying a SPA using aws-cdk (TypeScript)](https://dev.to/ryands17/deploying-a-spa-using-aws-cdk-typescript-4ibf)
 <!-- BLOG-POST-LIST:END -->
