@@ -28,6 +28,7 @@
 #### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Magic links 🪄 with Cognito using the CDK](https://dev.to/ryands17/magic-links-with-cognito-using-the-cdk-24a9)
 - [Sentiment Analysis with Step Functions using the CDK](https://dev.to/ryands17/sentiment-analysis-with-step-functions-using-the-cdk-4n1h)
 - [Rust on Lambda using the CDK](https://dev.to/ryands17/rust-on-lambda-using-the-cdk-3ccm)
 - [Using Nested Stacks with AWS CDK](https://dev.to/ryands17/using-nested-stacks-with-aws-cdk-4akc)
@@ -37,5 +38,4 @@
 - [Deploy a GraphQL API with Prisma, AWS AppSync, Aurora Serverless & CDK](https://dev.to/prisma/deploy-a-graphql-api-with-prisma-aws-appsync-aurora-serverless-cdk-ln4)
 - [Caching SSM Parameter Store values in Lambda](https://dev.to/ryands17/caching-ssm-parameter-store-values-in-lambda-5eac)
 - [Generating thumbnails via S3 events using aws-cdk (TypeScript)](https://dev.to/ryands17/generating-thumbnails-via-s3-events-using-aws-cdk-typescript-l1i)
-- [Exploring the new MobX API](https://dev.to/ryands17/exploring-the-new-mobx-api-34jp)
 <!-- BLOG-POST-LIST:END -->
