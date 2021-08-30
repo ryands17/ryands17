@@ -28,6 +28,7 @@
 #### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Canary deployment of Lambdas using CDK Pipelines](https://dev.to/ryands17/canary-deployment-of-lambdas-using-cdk-pipelines-1l0b)
 - [Magic links 🪄 with Cognito using the CDK](https://dev.to/ryands17/magic-links-with-cognito-using-the-cdk-24a9)
 - [Sentiment Analysis with Step Functions using the CDK](https://dev.to/ryands17/sentiment-analysis-with-step-functions-using-the-cdk-4n1h)
 - [Rust on Lambda using the CDK](https://dev.to/ryands17/rust-on-lambda-using-the-cdk-3ccm)
@@ -37,5 +38,4 @@
 - [Prisma Migrate with AWS Aurora Serverless](https://dev.to/prisma/prisma-migrate-with-aws-aurora-serverless-53g7)
 - [Deploy a GraphQL API with Prisma, AWS AppSync, Aurora Serverless & CDK](https://dev.to/prisma/deploy-a-graphql-api-with-prisma-aws-appsync-aurora-serverless-cdk-ln4)
 - [Caching SSM Parameter Store values in Lambda](https://dev.to/ryands17/caching-ssm-parameter-store-values-in-lambda-5eac)
-- [Generating thumbnails via S3 events using aws-cdk (TypeScript)](https://dev.to/ryands17/generating-thumbnails-via-s3-events-using-aws-cdk-typescript-l1i)
 <!-- BLOG-POST-LIST:END -->
