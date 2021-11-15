@@ -36,6 +36,6 @@
 - [Bundling Prisma with the CDK using aws-lambda-nodejs](https://dev.to/prisma/bundling-prisma-with-the-cdk-using-aws-lambda-nodejs-2lkd)
 - [Generating video thumbnails with S3 and Fargate using the CDK](https://dev.to/ryands17/generating-video-thumbnails-with-s3-and-fargate-using-the-cdk-35il)
 - [Prisma Migrate with AWS Aurora Serverless](https://dev.to/prisma/prisma-migrate-with-aws-aurora-serverless-53g7)
-- [Deploy a GraphQL API with Prisma, AWS AppSync, Aurora Serverless & CDK](https://dev.to/prisma/deploy-a-graphql-api-with-prisma-aws-appsync-aurora-serverless-cdk-ln4)
+- [Deploy a GraphQL API with Prisma, AWS AppSync, Aurora Serverless &amp; CDK](https://dev.to/prisma/deploy-a-graphql-api-with-prisma-aws-appsync-aurora-serverless-cdk-ln4)
 - [Caching SSM Parameter Store values in Lambda](https://dev.to/ryands17/caching-ssm-parameter-store-values-in-lambda-5eac)
 <!-- BLOG-POST-LIST:END -->
