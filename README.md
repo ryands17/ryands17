@@ -6,9 +6,7 @@
 
 - 🔭 I have experience with technologies like React, Node, Python, and with creating and deploying applications on AWS hands-on with various services like ECS, Lambda, SQS, S3 and Cloudfront to name a few.
 
-- GraphQL and TypeScript have blown me away and the Developer Experience that they provide makes me never wanna go back to REST and JS :D
-
-- 🌱 I’m currently learning Rust and the experience is truly amazing. I'm also trying my hands at Kubernetes as an experience to know how is it like orchestrating services apart from ECS.
+- 🌱 I’m currently implementing CLIs and APIs Rust and the experience is truly amazing. I'm also trying my hands at Kubernetes as an experience to know how is it like orchestrating services apart from ECS.
 
 #### Hobbies ⚡
 
